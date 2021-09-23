@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2E+BSlfi7abOkRFEZQ9o+TSjEcd1odYiCtzoAQ/RA7RcJ2bZS3CYsxwZJ8o44WQ7/9UUDn0DtpYNYpkawEiN/Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\VM\\Desktop\\MauiApp\\MauiApp\\MauiApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-ios, net6.0-maccatalyst"
+    }
+  ]
+}
